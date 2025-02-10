@@ -16,3 +16,5 @@ Email : hugo.owcz@gmail.com
 LinkedIn : [\[lien vers mon profil LinkedIn\]](https://www.linkedin.com/in/hugo-owczarczak/)
 
 Merci de prendre le temps de visiter mon profil GitHub ! Si vous avez des questions ou souhaitez collaborer sur un projet, n'hésitez pas à me contacter. 😊
+
+[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoOwcz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
