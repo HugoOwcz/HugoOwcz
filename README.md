@@ -13,7 +13,7 @@ Je suis actuellement étudiant en 2ème année à Supinfo. J'aime travailler sur
 
 Contact 📬
 Email : hugo.owcz@gmail.com
-LinkedIn : [\[Mon LinkedIn\]](https://www.linkedin.com/in/hugo-owczarczak/)
+LinkedIn : [Mon LinkedIn](https://www.linkedin.com/in/hugo-owczarczak/)
 
 Merci de prendre le temps de visiter mon profil GitHub ! Si vous avez des questions ou souhaitez collaborer sur un projet, n'hésitez pas à me contacter. 😊
 
